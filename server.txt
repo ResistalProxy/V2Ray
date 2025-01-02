@@ -1,3 +1,4 @@
+hysteria2://%40azadi_az_inja_migzare@all-v4.dgi000.store:443?sni=all-v4.dgi000.store&obfs=salamander&obfs-password=%40azadi_az_inja_migzare&insecure=0#%5BHy2%2001%5D%20%40ResistalProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%5BSS%2001%5D%20%40ResistalProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%5BSS%2002%5D%20%40ResistalProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%5BSS%2003%5D%20%40ResistalProxy
